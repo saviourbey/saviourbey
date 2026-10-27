@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/efekardogan13-a11y">
+  <a href="https://github.com/saviourbey">
     <img src="https://img.shields.io/badge/GitHub-efekardogan13-a11y-181717?style=flat-square&logo=github" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Development-a78bfa?style=flat-square" />
@@ -65,12 +65,12 @@ I enjoy working on Minecraft servers, developing custom plugins, creating Discor
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=efekardogan13-a11y&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efekardogan13-a11y&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saviourbey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviourbey&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=efekardogan13-a11y&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=saviourbey&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ I enjoy working on Minecraft servers, developing custom plugins, creating Discor
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/efekardogan13-a11y/efekardogan13-a11y/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/saviourbey/saviourbey/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ---
@@ -86,13 +86,13 @@ I enjoy working on Minecraft servers, developing custom plugins, creating Discor
 ### 📫 Find me on GitHub
 
 <p align="center">
-  <a href="https://github.com/efekardogan13-a11y">
+  <a href="https://github.com/saviourbey">
     <img src="https://img.shields.io/badge/Follow%20my%20work-Visit%20GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=efekardogan13-a11y&style=flat-square&color=a78bfa&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=saviourbey&style=flat-square&color=a78bfa&label=Profile+Views" />
 </p>
 
 <p align="center">
